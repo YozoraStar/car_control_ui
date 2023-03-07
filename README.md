@@ -1,4 +1,4 @@
-# lexus_control_app
+# car_control_app
 
 A new Flutter project.
 
